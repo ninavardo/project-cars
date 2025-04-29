@@ -10,5 +10,5 @@ Created as part of my front-end learning journey.
 #HTML #CSS #SportCars #WebDevelopment😝
 
 ## 🌐 Live Demo
-[Click here to view it live](https://ninavardo.github.io/cars-project/) 
+[Click here to view it live]([https://ninavardo.github.io/cars-project/](https://ninavardo.github.io/project-cars/)) 
 
