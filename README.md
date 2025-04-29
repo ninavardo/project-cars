@@ -1,4 +1,4 @@
-![MondayAlreadyMondayAgainGIF](https://github.com/user-attachments/assets/c1d579e9-cc9c-4d2c-a913-31bd16ddba88)# project-cars
+# project-cars
 
 🚗 Cars Project – A modern and responsive car-themed website built using HTML and CSS. 
 Created to practice front-end design, layout, and clean visual structure. 
